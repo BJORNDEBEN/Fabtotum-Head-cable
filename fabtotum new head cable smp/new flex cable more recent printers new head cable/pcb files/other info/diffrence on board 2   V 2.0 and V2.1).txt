@@ -1,0 +1,7 @@
+diffrence on board 2   V 2.0 and V2.1
+
+diffrence is that gnd and Vcc are switched on connector D2 and P7
+this was diffrent from the original headboard on V2.0.
+
+on V2.1 this is fixed. On V2.1 connections are exactly the same as 
+the original new version of the fabtotum head board for as far as i know. 
